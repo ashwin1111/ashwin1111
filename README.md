@@ -3,7 +3,7 @@
 <p align="center">
     <img src="https://media.giphy.com/media/G3H3U0fsmRfUY/giphy.gif" width=215px><br><br>
     <samp>
-        I'm <a href="https://ashwin.engineer/">Ashwin</a>, a final year student <a href="https://cit.edu.in/">@CIT 🏫</a> and also currently interning <a href="https://fylehq.com">@fyle 👨‍💻</a>
+        I'm <a href="https://ashwin.engineer/">Ashwin</a>, a final year student <a href="https://cit.edu.in/">@CIT 🏫</a> and also currently working <a href="https://fylehq.com">@fyle 👨‍💻</a>
         <img src="https://raw.githubusercontent.com/ashwin1111/ashwin1111/master/img/fyle.gif" width=15>
   </samp>
 </p>
