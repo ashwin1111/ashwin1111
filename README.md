@@ -1,16 +1,24 @@
-## Hello Developers :wave: 
+# 👋 Hi, I'm Ashwin Thanaraj
 
-<p align="center">
-    <img src="https://media.giphy.com/media/G3H3U0fsmRfUY/giphy.gif" width=215px><br><br>
-    <samp>
-        I'm <a href="https://ashwin.engineer/">Ashwin</a>, a final year student <a href="https://cit.edu.in/">@CIT 🏫</a> and also currently working <a href="https://fylehq.com">@fyle 👨‍💻</a>
-        <img src="https://raw.githubusercontent.com/ashwin1111/ashwin1111/master/img/fyle.gif" width=15>
-  </samp>
-</p>
+Engineering Manager at [Fyle](https://www.fylehq.com) (now part of Sage Group PLC).  
+I work on **accounting integrations** across the Sage ecosystem (Intacct, 300 CRE, 50 US), QuickBooks, Xero, NetSuite, and a few other HRMS and Travel Management Systems.  
+Passionate about **building scalable systems, cross-org collaboration, and developer tooling**.
 
+## 🛠️ Current Focus
+- Leading new integration initiatives post-Sage acquisition  
+- Expanding coverage for Intacct, Sage 300 CRE
+- Driving reusable modules and standardization across integrations  
 
-#### What am I doing now() ? :stuck_out_tongue:
+## 💻 Tech Stack
+- **Languages & Frameworks:** Python, Angular  
+- **Databases & Infra:** PostgreSQL, RabbitMQ, Kubernetes  
+- **Domains:** Accounting, ERP, HRMS, Travel Management  
 
-<p align="center">
-    <img alt="me" width="215px" src="https://raw.githubusercontent.com/ashwin1111/ashwin1111/master/img/me.jpeg" />
-</p>
+## 🏃 Outside of Work
+- Avid runner, about to tick off a half marathon  
+- Trekker, learning swimming, Badminton, Cricket, and outdoors enthusiast  
+- Based in Bangalore, roots in Tenkasi (Tamil Nadu, India)  
+
+## 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/ashwin-thanaraj)  
+- ✉️ Email: ashwin.t@sage.com  
