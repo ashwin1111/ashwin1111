@@ -21,4 +21,3 @@ Passionate about **building scalable systems, cross-org collaboration, and devel
 
 ## 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/ashwin-thanaraj)  
-- ✉️ Email: ashwin.t@sage.com  
